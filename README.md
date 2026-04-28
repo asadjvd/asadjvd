@@ -67,7 +67,7 @@ Now focused on transitioning into **Cloud & DevOps Engineering** through hands-o
 
 ## 📈 Goal
 
-To leverage my production engineering background and transition into a **Cloud / DevOps Engineer** role.
+To leverage my telephony engineering background and transition into a **Cloud / DevOps Engineer** role.
 
 ---
 
