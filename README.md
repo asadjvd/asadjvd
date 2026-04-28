@@ -23,7 +23,13 @@ Now focused on transitioning into **Cloud & DevOps Engineering** through hands-o
 
 ## 🛠️ Tech Stack
 
-Linux | Docker | Jenkins | AWS | Kubernetes | Git | Python
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
