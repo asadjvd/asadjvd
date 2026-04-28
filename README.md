@@ -1,8 +1,8 @@
 # Hi, I'm Asad Javed 👋
 
-### Cloud & DevOps Engineer in Progress | 5+ Years of Telephony Engineering Experience
+### Aspiring Cloud & DevOps Engineer | 5+ Years Production Engineering Experience
 
-I bring **5+ years of professional experience as a Telephony Engineer** with strong expertise in production systems, troubleshooting, Linux environments, monitoring, and automation.  
+I bring **5+ years of professional experience as a Telephony Engineer** with expertise in production systems, troubleshooting, Linux environments, monitoring, and automation.  
 
 Now focused on transitioning into **Cloud & DevOps Engineering** through hands-on projects, certifications, and real-world infrastructure deployments.
 
@@ -37,14 +37,36 @@ Now focused on transitioning into **Cloud & DevOps Engineering** through hands-o
 
 ## 🚀 Featured Projects
 
-- 🔹 Two-Tier Flask + MySQL App on AWS EC2 using Docker Compose  
-- 🔹 Jenkins CI/CD Pipeline for Automated Deployment  
-- 🔹 Kubernetes Hands-on Labs  
-- 🔹 Monitoring & Linux Practice Projects  
+- 🔹 **Three-Tier Application Deployment on AWS**  
+  Designed and deployed a multi-tier application architecture on AWS using compute, networking, and database services.
+
+- 🔹 **Containerized Application Deployment on AWS**  
+  Built and deployed a containerized application using Docker on AWS infrastructure.
+
+- 🔹 **Serverless Application on AWS**  
+  Implemented a serverless project using AWS managed services for scalable and event-driven architecture.
+
+- 🔹 **Full-Stack Chat Application on Kubernetes**  
+  Deployed a three-tier full-stack chat application on Kubernetes with frontend, backend, database, persistent storage, and service exposure.
+
+- 🔹 **Jenkins CI/CD for Two-Tier Flask + MySQL App**  
+  Deployed a Flask + MySQL application on AWS EC2 using Docker Compose and integrated Jenkins pipeline for automated build and deployment.
+
+- 🔹 **Monitoring & Linux Practice Projects**  
+  Hands-on practice with Linux administration, system troubleshooting, monitoring, and observability tools.
 
 ## 📈 Goal
 
 To leverage my telephony engineering background and transition into a **Cloud / DevOps Engineer** role.
+
+## 📄 Career Transition Note
+
+[Why I’m Transitioning into DevOps](https://raw.githubusercontent.com/asadjvd/asadjvd/main/Asad_Javed_Cover_Letter.pdf)
+
+## 📜 Certifications
+
+- [AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/asadjvd/asadjvd/main/AWS_CCP_certificate.pdf)
+- [Certified Kubernetes Administrator (CKA)](https://raw.githubusercontent.com/asadjvd/asadjvd/main/CKA_Certificate.pdf)
 
 ## 📫 Let's Connect
 
