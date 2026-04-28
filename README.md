@@ -1,19 +1,21 @@
 # Hi, I'm Asad Javed 👋
 
-### Cloud & DevOps Engineer in Progress | Former Telephony Engineer
+### Cloud & DevOps Engineer in Progress | 5+ Years of Telephony Engineering Experience
 
-I’m transitioning into Cloud & DevOps with a strong technical foundation in production systems, troubleshooting, automation, and infrastructure operations.
+I bring **5+ years of professional experience as a Telephony Engineer** with strong expertise in production systems, troubleshooting, Linux environments, monitoring, and automation.  
+
+Now focused on transitioning into **Cloud & DevOps Engineering** through hands-on projects, certifications, and real-world infrastructure deployments.
 
 ## 🚀 About Me
 
-- 💼 Prior experience in **Telephony Engineering**
-- ☁️ Focused on building a career in **Cloud & DevOps**
-- 🐳 Hands-on experience with **Docker** and containerized deployments
+- 💼 5+ years experience in **Telephony Engineering**
+- ☁️ Transitioning into **Cloud & DevOps Engineering**
+- 🐳 Hands-on with **Docker** and containerized applications
 - ⚙️ Building CI/CD pipelines using **Jenkins**
-- 🐧 Comfortable working in **Linux environments**
-- ☁️ Learning and implementing solutions on **AWS**
-- ☸️ Practicing **Kubernetes** administration and deployments
-- 📊 Experience with **Monitoring & Observability** tools
+- 🐧 Comfortable with **Linux Administration**
+- ☁️ Learning and building on **AWS**
+- ☸️ Practicing **Kubernetes** deployments and administration
+- 📊 Experience with **Monitoring & Observability**
 
 ## 🛠️ Tech Stack
 
@@ -27,27 +29,27 @@ I’m transitioning into Cloud & DevOps with a strong technical foundation in pr
 
 ## 📌 Current Focus
 
-- AWS Solutions Architecture  
-- Infrastructure Automation  
-- CI/CD Best Practices  
-- Kubernetes & Container Orchestration  
-- Real-world DevOps Projects  
+- AWS Cloud & Architecture
+- CI/CD Pipelines
+- Infrastructure Automation
+- Docker & Kubernetes
+- Real-world DevOps Projects
 
 ## 🚀 Featured Projects
 
 - 🔹 Two-Tier Flask + MySQL App on AWS EC2 using Docker Compose  
-- 🔹 Jenkins CI/CD Pipeline for Automated Deployments  
-- 🔹 Monitoring & Logging Practice Labs  
-- 🔹 Kubernetes Hands-on Deployments  
+- 🔹 Jenkins CI/CD Pipeline for Automated Deployment  
+- 🔹 Kubernetes Hands-on Labs  
+- 🔹 Monitoring & Linux Practice Projects  
 
 ## 📈 Goal
 
-To secure a **Cloud / DevOps Engineer role** by combining real-world project experience, certifications, and continuous learning.
+To leverage my telephony engineering background and transition into a **Cloud / DevOps Engineer** role.
 
 ## 📫 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/asadjaved
-- GitHub: https://github.com/asadjvd
+- LinkedIn: www.linkedin.com/in/asad-javed-661907297
+- Resume: [Download CV](https://raw.githubusercontent.com/asadjvd/asadjvd/main/Asad_Javed_CV.pdf)
 
 ---
 ⭐ Always learning. Always building.
