@@ -70,8 +70,8 @@ To leverage my telephony engineering background and transition into a **Cloud / 
 
 ## 📫 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/asad-javed-661907297
-- Resume: [Download CV](https://raw.githubusercontent.com/asadjvd/asadjvd/main/Asad_Javed_CV.pdf)
+- LinkedIn: https://www.linkedin.com/in/asad-javed-661907297
+- CV: [Download CV](https://raw.githubusercontent.com/asadjvd/asadjvd/main/Asad_Javed_CV.pdf)
 
 ---
 ⭐ Always learning. Always building.
